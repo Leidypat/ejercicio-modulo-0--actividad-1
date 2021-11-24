@@ -1,0 +1,2 @@
+# ejercicio-modulo-0--actividad-1
+la terminal : es también conocida como consola  o símbolo de sistema sirve para crear comandos los cuales nos ayudan a navegar dentro del computador "editando, creando, moviendo archivos e eliminándolos" conectando de manera remota también nos ayudan crear scripts para hacer mas fáciles las tareas , hay varios tipos de consolas como Linux, Windows ,mack  en Git add a: agregamos archivos  masivos en Git add: nombre de archivo solo un solo archivo por carga ,Git commit solo uno Commint alimentar los archivos también.
